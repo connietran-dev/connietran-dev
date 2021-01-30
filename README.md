@@ -7,6 +7,9 @@ By night, I am a Full-Stack Web Developer with experience programming on the web
 My favorite projects are featured here on my GitHub and include: 
 
 * [Playlistr](https://github.com/connietran-dev/playlistr-gtech-capstone), a real-time Spotify listening app built with socket.io and the MERN stack
+
 * [Genus](https://www.youtube.com/watch?v=hqa-nIO-M9U), a [Wallifornia](https://wallifornia-hackathon-2020.devpost.com/) Hackathon Winner in music technology & a collaboration platform for musical artists
+
 * Multiple hackathon entries, including [SurViral](https://github.com/connietran-dev/janebox-surviral-client), an online multi-player game, and [EmojiDex](https://github.com/connietran-dev/algolia-emojidex), a search engine utilizing Algolia
+
 * And [RetroFeed](https://github.com/simonanewton/retro-feed), a Twitter clone with a retro feel 
