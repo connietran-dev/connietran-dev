@@ -1,6 +1,6 @@
-✨  Hi there! ✨  I'm Connie Tran. 
+# ✨  Hi there! ✨  I'm Connie Tran 
 
-I am a Full-Stack Web Developer with experience programming with: React, Node, Express, MongoDB, and a whole host of other technologies. I am also Technical Project Manager at a digital agency with 6+ years managing web development projects.
+I'm a Full-Stack Web Developer with experience programming with: React, Node, Express, MongoDB, JavaScript, and a whole host of other technologies. I am also Technical Project Manager at a digital marketing agency with 6+ years managing web development projects.
 
 I'm currently a developer in the Mintbean.io Developers' Collective working with SASS and React.
 
