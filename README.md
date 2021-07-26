@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Web Developer with experience programming with: React, Node, Express, MongoDB, JavaScript, and a whole host of other technologies. I am also Technical Project Manager at a digital marketing agency with 6+ years managing web development projects.
 
-I'm currently a developer in the Mintbean.io Developers' Collective working with SASS and React.
+I'm currently a developer in the Mintbean.io Developers' Collective; and a part of the [Collab Lab](https://the-collab-lab.codes/who-we-are/) Summer 2021 cohort.
 
 My favorite projects are featured here on my GitHub and include: 
 
