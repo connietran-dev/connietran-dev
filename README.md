@@ -6,9 +6,9 @@ I'm Connie Tran, and I am a Full-Stack Web Developer with experience programming
 * Express 
 * MongoDB 
 * JavaScript 
-* A whole host of other technologies, such as Sass and socket.io.
+* A whole host of other technologies, such as Sass, Python, and socket.io.
  
-I am also Technical Project Manager & Product Owner at a digital marketing agency with over 6 years of experience managing large-scale web development projects.
+I am also Technical Project & Product Manager with over 9 years of experience managing large-scale web development projects.
 
 I've been a developer in the Mintbean.io Developers' Collective; and a full-stack developer as part of the [Collab Lab](https://the-collab-lab.codes/who-we-are/) Summer 2021 cohort working with React and Sass.
 
